@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "minhhoang@sws.com.vn"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "minhhoang@sws.com.vn"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "songnamis#001"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "htm123"
     }
   }
 }
